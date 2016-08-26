@@ -1,0 +1,43 @@
+1. Su dung Volley hoac Asynctask lay ket qua thoi tiet tu ws
+2. Phan tich chuoi json
+
+Project 24h
+Yêu cầu: 1 sản phẩm trên nền web/mobile hoặc cả 2 viết bằng java
+
+- Java web (JSF) (Backend) - Lưu trong csdl MySQL
+- Mobile Android (Client - FrontEnd)
+- Webservices - RestFul
+
+Android App
+
+WS
+
+JSF - CSDL
+
+- sản phẩm demo, báo báo bản cứng và bản mềm, slide bảo vệ
+
+--Chia nhóm: Mỗi nhóm 3-5 thành viên. Làm luôn hôm nay bầu trưởng nhóm??
+Các giai đoạn:
+- Khảo sát: chốt tên đề tài cần làm
+- Phân tích thiết kế: chức năng, CSDL, thiết kế giao diện
+- Lập trình: 30%-40%
+- Kết thúc: Bảo vệ
+Mỗi buổi trên lớp: Họp công ty (scrum) mỗi đầu buổi sáng (cuối tuần)
+- trưởng nhóm báo cáo công việc đã làm\
+- Kế hoạch tiếp theo?
+- Khó khăn gặp phải?
+Công cụ quản lý và làm việc nhóm.
+Github
+
+
+chia nhóm:
+Thứ 4 ngày 24 chốt tên đề tài (Chị Nga gửi lại tên đề tài các khóa trước)
+Liên hệ phòng đào tao để tham khảo code
+- Viết các chức năng của project (viết ra .doc)
+
+
+
+
+
+
+
